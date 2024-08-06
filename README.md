@@ -18,3 +18,5 @@ Use the mint function to create the new tokens.
 Use the burn function to destroy a certain amount of tokens.
 Use the transferFrom function to transfer currency from one address to another over the network.
 Use the transfer function to transfer the tokens to another address.
+
+![image](https://github.com/user-attachments/assets/1860f7ae-b057-4ce8-bf3d-45a1637cc786)
